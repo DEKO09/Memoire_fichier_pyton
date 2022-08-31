@@ -1,0 +1,1 @@
+# Memoire_fichier_pyton
